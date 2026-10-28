@@ -34,7 +34,7 @@
 			</basic>
 			
 			<basic name="esalary">
-				<column name="address"/> <!-- This is optional -->
+				<column name="salary"/> <!-- This is optional -->
 			</basic>
 		
 		</attributes>
